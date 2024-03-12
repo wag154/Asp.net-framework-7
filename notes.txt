@@ -1,0 +1,6 @@
+"dotnet -h" : list of commands
+"dotnet new webapi" : for new project
+"dotnet watch run" : run server and watch file changes
+
+
+
